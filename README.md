@@ -26,6 +26,6 @@ To use optimus,
 ```python
 from optimus import optimus_compare as op
 
-op('foo', 'bar', (10, 20), (5, )
+op('foo', 'bar', (10, 20), (5, ))
 ```
 
